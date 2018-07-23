@@ -1,0 +1,19 @@
+body {
+    font-family: "DejaVu Sans Mono", monospace;
+    font-size: 15px;
+    width: 600px;
+    margin: 0 auto;
+}
+
+h1 {
+    text-align: center;
+}
+
+#header {
+    text-align: center;
+}
+
+#header a {
+    color: black;
+    text-decoration: none;
+}

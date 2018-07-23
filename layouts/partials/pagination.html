@@ -1,0 +1,9 @@
+{{ if gt $.Paginator.TotalPages 1 }}
+    {{ if .Paginator.HasPrev }}
+        <a rel="prev" href="{{ .Paginator.Prev.URL | relURL }}">Articles précédents</a>
+    {{ end }}
+    <br />
+    {{ if .Paginator.HasNext }}
+        <a rel="next" href="{{ .Paginator.Next.URL | relURL }}">Articles suivants</a>
+    {{ end }}
+{{ end }}
