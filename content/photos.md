@@ -22,3 +22,4 @@ Photographies
 {{< photo src="camille_uzupis_republic" caption="Figure 19 : République d'Užupis" >}}
 {{< photo src="lucasPl_cambridge1" caption="Figure 20 : Cambridge #1" >}}
 {{< photo src="lucasPl_cambridge2" caption="Figure 21 : Cambridge #2" >}}
+{{< photo src="jilljenn_fuji" caption="Figure 22 : Invité spécial : Mont Fuji " >}}
